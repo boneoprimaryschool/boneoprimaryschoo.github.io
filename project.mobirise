@@ -42,7 +42,17 @@
       }
     ],
     "uniqCompNum": 1,
-    "versionPublish": "5.8.9"
+    "versionPublish": "5.8.9",
+    "favicon": "@PROJECT_PATH@/assets/images/boneo-logo.jpg",
+    "mbrsiteDomain": "hurbjcwydg",
+    "imageResize": false,
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
